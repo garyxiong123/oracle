@@ -85,7 +85,7 @@ private static JdbcTemplate jdbcTemplate;
 	
 	
 	public static void main(String[] args) {
-		
+		System.out.println("-----");
 //	   Properties.class.
 		
 		
