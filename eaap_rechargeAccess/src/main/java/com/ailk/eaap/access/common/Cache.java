@@ -65,6 +65,8 @@ private static JdbcTemplate jdbcTemplate;
 //					menuBean.setText(text);
 					menuBean.setUrl(rs.getString("url"));
 					System.out.println("sss");
+					System.out.println("sss");
+					System.out.println("sss");
 					return menuBean;
 				}
 				
